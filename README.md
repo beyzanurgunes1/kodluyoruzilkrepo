@@ -1,7 +1,7 @@
 # kodluyoruz ilk repo
 [Kodluyoruz](https://kodluyoruz.org/) eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![ilk repo resmi](https://raw.githubusercontent.com/beyzanurgunes1/kodluyoruzilkrepo/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.JPG?token=GHSAT0AAAAAABWRLLHXLKOKYRH4SYJW4GWEY72FEDA)
+![ilk repo resmi](https://raw.githubusercontent.com/beyzanurgunes1/kodluyoruzilkrepo/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.JPG?token=GHSAT0AAAAAABWRLLHWUSSSIHLKYT2GBQASY72G2KQ)
 
 ## Installization
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
